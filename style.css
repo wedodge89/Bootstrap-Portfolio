@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(35, 35, rgb(37, 37, 37))
+}
+
+footer {
+    position: relative;
+    top: 20px;
+    border-top: 15px solid rgb(131, 0, 26);
+    text-align: center;
+    padding: 0;
+    background-color: #6c757d;
+    color: #ffffff;
+}
+
+.border {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 20px solid black;
+    padding: 15px;
+}
+
+.portBox {
+    height: 250px;
+    width: 250px;
+}
+
+.portImg {
+    height: 250px;
+    width: 250px;
+}
+
+.portTitle {
+    color: black;
+    background-color: gainsboro;
+    opacity: 0.75;
+}
+
+.portText {
+    color: black;
+    background-color: gainsboro;
+    opacity: 0.75;
+}
+
+.portRow {
+    margin: 20px;
+}
+
+.form {
+    width: 300px;
+}
+
+.form2 {
+    width: 300px;
+    height: 125px;
+    text-align: top;
+}
+
+#elNav {
+    background-color: rgb(131, 0, 26);
+}
+
+#headshot {
+    border: 10px, solid, black;
+}
+
+a:hover {
+    background-color: #929292;
+}
